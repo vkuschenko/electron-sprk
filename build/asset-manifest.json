@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c85422d8.chunk.css",
+    "main.js": "/static/js/main.000f00c0.chunk.js",
+    "main.js.map": "/static/js/main.000f00c0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.77015481.chunk.js": "/static/js/2.77015481.chunk.js",
+    "static/js/2.77015481.chunk.js.map": "/static/js/2.77015481.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a43508ac8d795ab7422d4234d77d48b2.js": "/precache-manifest.a43508ac8d795ab7422d4234d77d48b2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c85422d8.chunk.css.map": "/static/css/main.c85422d8.chunk.css.map",
+    "static/media/fonts.css": "/static/media/Roboto-Regular.18d44f79.ttf",
+    "static/media/sidebar.svg": "/static/media/sidebar.e24bdf00.svg",
+    "static/media/toggle-off.svg": "/static/media/toggle-off.afdf74b5.svg",
+    "static/media/toggle-on.svg": "/static/media/toggle-on.172a4aa9.svg",
+    "static/media/toolbar.svg": "/static/media/toolbar.f5413ef4.svg"
+  }
+}
