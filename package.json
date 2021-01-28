@@ -47,7 +47,7 @@
     "@storybook/react": "^5.1.9",
     "@types/storybook__react": "^4.0.2",
     "awesome-typescript-loader": "^5.2.1",
-    "electron": "^5.0.7",
+    "electron": "^9.4.0",
     "react-docgen-typescript-loader": "^3.1.0"
   },
   "proxy": "http://localhost:4000"
